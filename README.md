@@ -3,23 +3,19 @@
 
 **`Exploring the universe through code and creativity (Developer/Engineer)`**   
 
-<a href="https://www.instagram.com/rorosaga1" target="_blank" rel="noopener noreferrer">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%232C3454.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/rodrigosagastegui" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/luis-gomez-acebo-martin-retortillo/" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%232C3454.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
 
-<a href="mailto:roro.sagasmarti15@gmail.com">
+<a href="mailto:gomez.acebo.luis@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-2c3454?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=rorosaga&color=blue&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Fruitkeeper&color=blue&style=for-the-badge&abbreviated=true)
 
 🌱 *Passionate CS & AI student fueled by endless curiosity and a love for learning. I thrive on exploring new ideas and finding simple, elegant solutions to complex problems. Always eager to take on exciting projects and collaborate with like-minded individuals.* 🌌🔭
 
-🚀 *I'm currently leading the development of **Botzo**, a quadruped robot dog, as **Co-President** of the project. This initiative blends my passions for robotics, machine learning, and engineering. Alongside, I’m exploring creative coding, generative art, and expanding my expertise in web development and backend systems.* 🎨🤖
+🚀 *I'm currently working on the development of **Herbie**, an autonomous self-suficient plant. This initiative blends my passions for robotics, machine learning, blockchain and engineering.* 🤖
 
 🌐 [Check out good boy botzo here](https://github.com/botzo-team) and some of my pinned projects below! 📌
 
@@ -27,12 +23,12 @@
 
 <br>
 
-<a href="https://github.com/rorosaga">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=rorosaga&theme=dark&hide_border=false&rank_icon=github" />
+<a href="https://github.com/Fruitkeeper">
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=Fruitkeeper&theme=dark&hide_border=false&rank_icon=github" />
 </a>
 
 <a href="https://github.com/rorosaga">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorosaga&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fruitkeeper&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </a>
 
 <br>  
