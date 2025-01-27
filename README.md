@@ -17,9 +17,7 @@
 
 🚀 *I'm currently working on the development of **Herbie**, an autonomous self-suficient plant. This initiative blends my passions for robotics, machine learning, blockchain and engineering.* 🤖
 
-🌐 [Check out good boy botzo here]([https://github.com/Fruitkeeper/Herbie] and some of my pinned projects below! 📌
-
-📬 *So, whether it's for a cool project or some good music recommendations, feel free to reach out :)*
+🌐 [Check out Herbie here]([https://github.com/Fruitkeeper/Herbie] and some of my pinned projects below! 📌
 
 <br>
 
