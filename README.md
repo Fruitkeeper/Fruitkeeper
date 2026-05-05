@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-  ┌─────────────────────────────────────────────────────────┐
-  │  > booting profile.exe ...                              │
-  │  > user: luis_gomez_acebo                               │
-  │  > status: building things that probably shouldn't work │
-  │  > location: somewhere between hardware and software    │
-  └─────────────────────────────────────────────────────────┘
-```
-
-# `Luis Gomez-Acebo`
+![header](./header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A0A0A0&center=true&vCenter=true&width=600&lines=robotics+tinkerer;occasional+blockchain+enthusiast;currently+arguing+with+a+neural+net)](https://git.io/typing-svg)
 
@@ -54,10 +45,6 @@ Most days I'm reading papers, breaking soldering joints, or arguing with a model
 ### `~/activity`
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fruitkeeper&bg_color=0d1117&color=a0a0a0&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=commits+over+time" />
-
-<br>
-
-![snake gif](https://raw.githubusercontent.com/Fruitkeeper/Fruitkeeper/output/github-contribution-grid-snake-dark.svg)
 
 <br><br>
 
