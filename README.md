@@ -11,11 +11,10 @@
 
 # `Luis Gomez-Acebo`
 
-#### CS + AI student · robotics tinkerer · occasional blockchain enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A0A0A0&center=true&vCenter=true&width=600&lines=CS+%2B+AI+student;robotics+tinkerer;occasional+blockchain+enthusiast;currently+arguing+with+a+neural+net)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/—_linkedin-0A0A0A?style=flat-square&labelColor=0A0A0A)](https://www.linkedin.com/in/luis-gomez-acebo-martin-retortillo/)
 [![Email](https://img.shields.io/badge/—_email-0A0A0A?style=flat-square&labelColor=0A0A0A)](mailto:gomez.acebo.luis@gmail.com)
-[![Herbie](https://img.shields.io/badge/—_herbie-0A0A0A?style=flat-square&labelColor=0A0A0A)](https://github.com/Fruitkeeper/Herbie)
 
 </div>
 
@@ -29,29 +28,13 @@ Currently a CS & AI student. Most days I'm reading papers, breaking soldering jo
 
 ---
 
-### `~/now_building`
-
-```yaml
-project:    Herbie
-type:       autonomous self-sufficient plant
-stack:      [robotics, ML, blockchain, way_too_much_caffeine]
-status:     alive (mostly)
-why:        because plants shouldn't need humans to survive
-            and humans shouldn't need to remember to water plants
-```
-
-→ [github.com/Fruitkeeper/Herbie](https://github.com/Fruitkeeper/Herbie)
-
----
-
 ### `~/toolkit`
 
-```
-  languages   ·  Python  ·  C / C++  ·  JavaScript  ·  Bash
-  frameworks  ·  React  ·  Vue  ·  Node  ·  PyTorch  ·  TensorFlow
-  systems     ·  Linux  ·  Docker  ·  Azure  ·  CMake
-  hardware    ·  Arduino  ·  Raspberry Pi  ·  whatever's on the bench
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,react,vue,nodejs,bash,linux,docker,azure,arduino,raspberrypi,pytorch,tensorflow&perline=8" />
+
+</div>
 
 ---
 
@@ -63,6 +46,20 @@ why:        because plants shouldn't need humans to survive
   03.  the boring solution usually wins
   04.  if you can't explain it on a napkin, rebuild it
 ```
+
+---
+
+<div align="center">
+
+### `~/activity`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fruitkeeper&bg_color=0d1117&color=a0a0a0&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=commits+over+time" />
+
+<br>
+
+![snake gif](https://github.com/Fruitkeeper/Fruitkeeper/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
