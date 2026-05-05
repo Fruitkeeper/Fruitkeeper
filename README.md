@@ -11,7 +11,7 @@
 
 # `Luis Gomez-Acebo`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A0A0A0&center=true&vCenter=true&width=600&lines=CS+%2B+AI+student;robotics+tinkerer;occasional+blockchain+enthusiast;currently+arguing+with+a+neural+net)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A0A0A0&center=true&vCenter=true&width=600&lines=robotics+tinkerer;occasional+blockchain+enthusiast;currently+arguing+with+a+neural+net)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/—_linkedin-0A0A0A?style=flat-square&labelColor=0A0A0A)](https://www.linkedin.com/in/luis-gomez-acebo-martin-retortillo/)
 [![Email](https://img.shields.io/badge/—_email-0A0A0A?style=flat-square&labelColor=0A0A0A)](mailto:gomez.acebo.luis@gmail.com)
@@ -24,7 +24,7 @@
 
 I like problems that sit in the awkward space between disciplines — where a clean software answer isn't enough and you have to think about hardware, biology, or economics too. Most of what I build starts with the same question: *what if this thing could just take care of itself?*
 
-Currently a CS & AI student. Most days I'm reading papers, breaking soldering joints, or arguing with a model that refuses to converge.
+Most days I'm reading papers, breaking soldering joints, or arguing with a model that refuses to converge.
 
 ---
 
@@ -57,14 +57,7 @@ Currently a CS & AI student. Most days I'm reading papers, breaking soldering jo
 
 <br>
 
-![snake gif](https://github.com/Fruitkeeper/Fruitkeeper/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-<sub><i>"the only way to do great work is to love what you do"</i> — sj</sub>
+![snake gif](https://raw.githubusercontent.com/Fruitkeeper/Fruitkeeper/output/github-contribution-grid-snake-dark.svg)
 
 <br><br>
 
