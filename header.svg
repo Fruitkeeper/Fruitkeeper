@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#161616"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glitch" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02 0.5" numOctaves="2" seed="3">
+        <animate attributeName="seed" values="3;7;13;3" dur="2.5s" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" scale="3"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="240" fill="url(#bg)"/>
+
+  <!-- grid -->
+  <g stroke="#1f1f1f" stroke-width="1">
+    <path d="M0 60 H900 M0 120 H900 M0 180 H900"/>
+    <path d="M150 0 V240 M300 0 V240 M450 0 V240 M600 0 V240 M750 0 V240"/>
+  </g>
+
+  <!-- animated waveform layers -->
+  <g fill="none" stroke-width="1.5" filter="url(#glow)">
+    <path stroke="#ffffff" stroke-opacity="0.15" d="M0,120 Q112,40 225,120 T450,120 T675,120 T900,120">
+      <animate attributeName="d"
+        values="
+          M0,120 Q112,40 225,120 T450,120 T675,120 T900,120;
+          M0,120 Q112,200 225,120 T450,120 T675,120 T900,120;
+          M0,120 Q112,40 225,120 T450,120 T675,120 T900,120"
+        dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path stroke="#ffffff" stroke-opacity="0.35" d="M0,120 Q150,80 300,120 T600,120 T900,120">
+      <animate attributeName="d"
+        values="
+          M0,120 Q150,80 300,120 T600,120 T900,120;
+          M0,120 Q150,160 300,120 T600,120 T900,120;
+          M0,120 Q150,80 300,120 T600,120 T900,120"
+        dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path stroke="url(#line)" stroke-width="2" d="M0,120 Q90,60 180,120 T360,120 T540,120 T720,120 T900,120">
+      <animate attributeName="d"
+        values="
+          M0,120 Q90,60 180,120 T360,120 T540,120 T720,120 T900,120;
+          M0,120 Q90,180 180,120 T360,120 T540,120 T720,120 T900,120;
+          M0,120 Q90,60 180,120 T360,120 T540,120 T720,120 T900,120"
+        dur="2.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- scanline -->
+  <rect x="0" y="0" width="900" height="2" fill="#ffffff" fill-opacity="0.08">
+    <animate attributeName="y" values="0;240;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- name with subtle glitch -->
+  <g font-family="JetBrains Mono, Consolas, monospace" text-anchor="middle">
+    <text x="450" y="115" font-size="44" font-weight="700" fill="#ffffff" filter="url(#glitch)" letter-spacing="2">
+      LUIS GOMEZ-ACEBO
+    </text>
+    <text x="450" y="115" font-size="44" font-weight="700" fill="#ffffff" letter-spacing="2">
+      LUIS GOMEZ-ACEBO
+    </text>
+    <text x="450" y="150" font-size="13" fill="#a0a0a0" letter-spacing="6">
+      <tspan>D E V E L O P E R</tspan>
+      <tspan dx="20">/</tspan>
+      <tspan dx="20">B U I L D E R</tspan>
+      <tspan dx="20">/</tspan>
+      <tspan dx="20">T I N K E R E R</tspan>
+    </text>
+  </g>
+
+  <!-- corner ticks -->
+  <g stroke="#ffffff" stroke-width="1.5" fill="none">
+    <path d="M10,10 H30 M10,10 V30"/>
+    <path d="M890,10 H870 M890,10 V30"/>
+    <path d="M10,230 H30 M10,230 V210"/>
+    <path d="M890,230 H870 M890,230 V210"/>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="448" y="180" width="10" height="2" fill="#ffffff">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
