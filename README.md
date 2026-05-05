@@ -25,6 +25,18 @@ Most days I'm reading papers, breaking soldering joints, or arguing with a model
 
 <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,react,vue,nodejs,bash,linux,docker,azure,arduino,raspberrypi,pytorch,tensorflow&perline=8" />
 
+<br><br>
+
+<sub>`agents · llms · vectors`</sub>
+
+<br>
+
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logo=langchain&logoColor=ffffff&labelColor=0A0A0A)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logoColor=ffffff&labelColor=0A0A0A)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A0A0A?style=flat-square&logoColor=ffffff&labelColor=0A0A0A)
+![ChromaDB](https://img.shields.io/badge/Chroma-0A0A0A?style=flat-square&logoColor=ffffff&labelColor=0A0A0A)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-0A0A0A?style=flat-square&logoColor=ffffff&labelColor=0A0A0A)
+
 </div>
 
 ---
